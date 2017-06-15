@@ -1,0 +1,11 @@
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\bin\Debug\netcoreapp1.1\DemoAppTest.deps.json
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\bin\Debug\netcoreapp1.1\DemoAppTest.runtimeconfig.json
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\bin\Debug\netcoreapp1.1\DemoAppTest.runtimeconfig.dev.json
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\bin\Debug\netcoreapp1.1\DemoAppTest.dll
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\bin\Debug\netcoreapp1.1\DemoAppTest.pdb
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\obj\Debug\netcoreapp1.1\DemoAppTest.AssemblyInfo.cs
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\obj\Debug\netcoreapp1.1\DemoAppTest.dll
+C:\Users\skumar\Documents\Visual Studio 2017\Projects\DemoApp\DemoAppTest\obj\Debug\netcoreapp1.1\DemoAppTest.pdb
