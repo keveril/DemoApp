@@ -25,8 +25,8 @@
         }
 
 #sidebar {
-    /*background: #2a2c36;*/
-    background: #eee;
+    background: #2a2c36;
+    /*background: #eee;*/
     color: #eee;
     position: fixed;
     height: 100%;
